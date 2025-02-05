@@ -5,10 +5,6 @@ import sqlite3
 import socket
 import platform
 import uuid
-
-sender = '{sendere}'
-reciever = '{yourmail}'
-password = '{senderpass}'
 # Dont change this
 marker = "1"
 
